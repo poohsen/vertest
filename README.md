@@ -1,4 +1,4 @@
-![Version](ver.txt)
+[Version](#version)
 
 # vertest
 change a
